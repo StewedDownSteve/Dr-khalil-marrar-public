@@ -1,5 +1,5 @@
 # Dr. Khalil Marrar - Professional Website with Decap CMS Blog. (In Progress)
-This is a project im finishing up for a Profressor and Writer from the Chicago area. He Orginally had a squarespace website but wanted something more up to date and proffesional looking.
+This is a project im finishing up for a professor and Writer from the Chicago area. He Originally had a squarespace website but wanted something more up to date and proffesional looking.
 
 ## Jan 2025
 Currently working on importing all past blog posts into his new CMS blog. Aqating Squarespace to release his domain to start publishing
